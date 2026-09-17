@@ -11,8 +11,8 @@ Proyek ini dibuat untuk mempraktikkan pemisahan tanggung jawab kode (*Separation
 ## Dokumen Blueprint (Perancangan)
 Perancangan konseptual, struktur data, diagram alur sistem, serta fase-fase pengerjaan telah didokumentasikan dengan rapi. Ini merupakan cetak biru (blueprint) yang dijadikan acuan sebelum menulis kode program.
 
-Silakan baca dokumen perancangannya di sini:
-👉 **[PRD dan Blueprint Perencanaan](PRD_dan_Perencanaan.md)**
+Baca dokumen perancangannya di sini:
+**[PRD dan Blueprint Perencanaan](PRD_dan_Perencanaan.md)**
 
 ## Cara Menjalankan Aplikasi (Nanti Setelah Koding Selesai)
 1. Pastikan Anda memiliki PHP yang terinstal di komputer.
