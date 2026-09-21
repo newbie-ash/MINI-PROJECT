@@ -12,9 +12,12 @@ Proyek ini dibuat untuk mempraktikkan pemisahan tanggung jawab kode (*Separation
 Perancangan konseptual, struktur data, diagram alur sistem, serta fase-fase pengerjaan telah didokumentasikan dengan rapi. Ini merupakan cetak biru (blueprint) yang dijadikan acuan sebelum menulis kode program.
 
 Silakan baca dokumen perancangannya di sini:
-👉 **[1. PRD dan Blueprint Perencanaan Umum](PRD.md)**
-👉 **[2. Software Architecture Document (SAD)](SAD.md)**
-👉 **[3. Processing Flowchart (Diagram Alur Logika)](Processing_Flowchart.md)**
+
+**[1. PRD dan Blueprint Perencanaan Umum](PRD.md)**
+
+**[2. Software Architecture Document (SAD)](SAD.md)**
+
+**[3. Processing Flowchart (Diagram Alur Logika)](Processing_Flowchart.md)**
 
 ## Cara Menjalankan Aplikasi (Nanti Setelah Koding Selesai)
 1. Pastikan Anda memiliki PHP yang terinstal di komputer.
